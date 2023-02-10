@@ -1,3 +1,5 @@
+#Script propiedad de Alberto Moreno Cordón
+
 import os
 
 from datetime import datetime
